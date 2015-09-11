@@ -104,5 +104,5 @@ function directoryHTML( res, urldir, pathname, list ) {
 }
 
 // Fire up server
-mainapp.listen(8000);
-console.log('Listening port 8000 root dir ' + dir );
+mainapp.listen(8111);
+console.log('Listening port 8111 root dir ' + dir );
